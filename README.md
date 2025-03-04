@@ -5,7 +5,7 @@ Top-2 solution for CVPR 2024 PBVS Thermal Image Super-Resolution Challenge (GTIS
 [![2nd Place on PBVS 24 Challenge on Guided Thermal Image Super Resolution](https://img.shields.io/badge/PBVS%202024%20Challenge-blue?style=flat-square)](https://codalab.lisn.upsaclay.fr/competitions/17014)
 [![Opencvf](https://img.shields.io/badge/OpenCVF-gray?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/papers/Puttagunta_Multi-Scale_Feature_Fusion_using_Channel_Transformers_for_Guided_Thermal_Image_CVPRW_2024_paper.pdf)
 [![IEEE Xplore](https://img.shields.io/badge/IEEEXplore-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10678381)
-
+[![Poster](https://img.shields.io/badge/Poster-gray?style=flat-square)](https://umkc.box.com/s/haxchxtbedmttyty0sx52yya4xquyr95)
 ![Network Architecture](https://github.com/raghunath19/MSFFCT/blob/0c23b4f0b03736dcf6b44a280df1d924a18ee483/thermal_proposed_GTISR.png)
 
 
